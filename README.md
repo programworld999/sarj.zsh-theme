@@ -1,4 +1,5 @@
 # sarj.zsh-theme
+This theme Is inspired and modifyed virsion of [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) [Bira](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) Theme
 
 ## Demo
 ![themeDemo1](https://github.com/programworld999/sarj.zsh-theme/blob/master/Screenshot%20from%202020-05-31%2014-58-12.png)
